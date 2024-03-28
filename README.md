@@ -1,2 +1,2 @@
 # failing_memory
-Parctice
+Practice
