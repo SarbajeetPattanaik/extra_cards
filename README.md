@@ -10,6 +10,7 @@ Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@ Practice
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
