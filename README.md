@@ -20,6 +20,7 @@ Practice
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
@@ -36,4 +37,8 @@ Practice
 | ------- |
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
