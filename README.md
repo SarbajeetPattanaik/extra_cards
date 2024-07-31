@@ -41,4 +41,8 @@ Practice
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
