@@ -48,6 +48,7 @@ Practice
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -58,4 +59,8 @@ Practice
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
