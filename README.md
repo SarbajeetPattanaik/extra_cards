@@ -25,10 +25,12 @@ Practice
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Practice
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
