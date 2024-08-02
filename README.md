@@ -35,6 +35,7 @@ Practice
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -49,6 +50,7 @@ Practice
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -78,4 +80,20 @@ Practice
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
