@@ -15,6 +15,7 @@ Practice
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
@@ -52,6 +53,7 @@ Practice
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
@@ -60,6 +62,7 @@ Practice
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -70,5 +73,6 @@ Practice
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
