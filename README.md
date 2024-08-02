@@ -16,6 +16,7 @@ Practice
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
@@ -83,10 +84,12 @@ Practice
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -95,5 +98,6 @@ Practice
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
