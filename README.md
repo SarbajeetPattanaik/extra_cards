@@ -30,6 +30,7 @@ Practice
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -50,6 +51,7 @@ Practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
