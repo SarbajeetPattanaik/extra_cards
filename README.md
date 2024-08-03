@@ -6,6 +6,7 @@ Practice
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ Practice
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -54,6 +56,7 @@ Practice
 | ------- |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
