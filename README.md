@@ -8,6 +8,7 @@ Practice
 | ------- |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -133,4 +134,8 @@ Practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
