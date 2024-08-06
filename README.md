@@ -28,6 +28,7 @@ Practice
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
@@ -101,6 +102,7 @@ Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
@@ -138,4 +140,8 @@ Practice
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
