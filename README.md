@@ -32,6 +32,7 @@ Practice
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ Practice
 | ------- |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -103,6 +105,7 @@ Practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
