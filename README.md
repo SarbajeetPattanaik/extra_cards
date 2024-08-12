@@ -32,6 +32,7 @@ Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
@@ -160,4 +162,8 @@ Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
