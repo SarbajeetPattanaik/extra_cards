@@ -43,6 +43,7 @@ Practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
@@ -77,6 +78,7 @@ Practice
 | ------- |
 | [0035-search-insert-position](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@ Practice
 | [0142-linked-list-cycle-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -196,4 +199,8 @@ Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
