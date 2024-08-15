@@ -7,6 +7,7 @@ Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
@@ -118,6 +119,7 @@ Practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0141-linked-list-cycle) |
@@ -188,4 +190,8 @@ Practice
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
