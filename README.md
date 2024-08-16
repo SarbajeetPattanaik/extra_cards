@@ -205,4 +205,8 @@ Practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
