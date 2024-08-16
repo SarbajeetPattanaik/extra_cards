@@ -166,6 +166,7 @@ Practice
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
+| [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 |  |
 | ------- |
@@ -211,4 +212,8 @@ Practice
 | [0584-find-customer-referee](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
