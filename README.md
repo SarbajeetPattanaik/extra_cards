@@ -27,6 +27,7 @@ Practice
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
+| [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
@@ -174,6 +175,7 @@ Practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
+| [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 |  |
@@ -230,4 +232,8 @@ Practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 <!---LeetCode Topics End-->
