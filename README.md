@@ -53,6 +53,7 @@ Practice
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -91,6 +92,7 @@ Practice
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
