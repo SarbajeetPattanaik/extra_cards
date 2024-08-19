@@ -51,6 +51,7 @@ Practice
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -89,6 +90,7 @@ Practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
