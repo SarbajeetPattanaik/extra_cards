@@ -60,6 +60,7 @@ Practice
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -87,6 +88,7 @@ Practice
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
 ## Binary Search
 |  |
 | ------- |
