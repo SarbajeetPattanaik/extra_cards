@@ -50,6 +50,7 @@ Practice
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0624-maximum-distance-in-arrays) |
+| [0724-find-pivot-index](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
@@ -83,6 +84,7 @@ Practice
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
