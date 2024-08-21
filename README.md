@@ -192,6 +192,7 @@ Practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
