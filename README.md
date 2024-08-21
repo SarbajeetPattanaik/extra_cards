@@ -42,6 +42,7 @@ Practice
 | [0036-valid-sudoku](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
@@ -193,6 +194,7 @@ Practice
 | [0002-add-two-numbers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
