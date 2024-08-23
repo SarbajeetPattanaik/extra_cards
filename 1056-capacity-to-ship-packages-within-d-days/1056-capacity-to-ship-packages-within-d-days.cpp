@@ -23,7 +23,7 @@ public:
                     part++;
                 }
             }
-            cout<<part<<" "<<capacity<<endl;
+            // cout<<part<<" "<<capacity<<endl;
             // if(part==days){
             //     return capacity;
             // }
