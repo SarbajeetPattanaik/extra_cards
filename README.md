@@ -12,6 +12,7 @@ Practice
 | [0125-valid-palindrome](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -28,6 +29,7 @@ Practice
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -221,6 +223,7 @@ Practice
 | [0011-container-with-most-water](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
