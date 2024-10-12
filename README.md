@@ -70,6 +70,7 @@ Practice
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -99,6 +100,7 @@ Practice
 | [0724-find-pivot-index](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Practice
 | [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -170,6 +173,7 @@ Practice
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
 | ------- |
@@ -228,6 +232,7 @@ Practice
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2487-optimal-partition-of-string) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -250,6 +255,7 @@ Practice
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
 |  |
 | ------- |
