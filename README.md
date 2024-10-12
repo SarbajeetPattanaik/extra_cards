@@ -66,6 +66,7 @@ Practice
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
@@ -87,6 +88,7 @@ Practice
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2487-optimal-partition-of-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2487-optimal-partition-of-string) |
@@ -255,6 +257,7 @@ Practice
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Data Stream
 |  |
