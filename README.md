@@ -191,11 +191,13 @@ Practice
 | [0098-validate-binary-search-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
@@ -215,6 +217,7 @@ Practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Math
 |  |
@@ -303,5 +306,6 @@ Practice
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
