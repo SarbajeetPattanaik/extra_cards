@@ -200,6 +200,7 @@ Practice
 | [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Practice
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -308,4 +310,5 @@ Practice
 | ------- |
 | [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
