@@ -19,6 +19,7 @@ Practice
 | [2487-optimal-partition-of-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Practice
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -289,6 +291,7 @@ Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,4 +325,16 @@ Practice
 | [0684-redundant-connection](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0684-redundant-connection) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
