@@ -81,6 +81,7 @@ Practice
 | [3330-modify-the-matrix](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3330-modify-the-matrix) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ Practice
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2487-optimal-partition-of-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -300,6 +302,7 @@ Practice
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0476-number-complement) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Database
 |  |
 | ------- |
