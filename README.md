@@ -62,6 +62,7 @@ Practice
 | [0792-binary-search](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0890-lemonade-change) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -87,6 +88,7 @@ Practice
 | [0217-contains-duplicate](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0560-subarray-sum-equals-k) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -213,6 +215,7 @@ Practice
 ## Counting
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
@@ -233,6 +236,7 @@ Practice
 | [0069-sqrtx](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0367-valid-perfect-square) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
@@ -297,6 +301,7 @@ Practice
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
 ## Divide and Conquer
 |  |
