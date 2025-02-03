@@ -20,6 +20,7 @@ Practice
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3379-score-of-a-string](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
