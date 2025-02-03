@@ -78,6 +78,7 @@ Practice
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3330-modify-the-matrix) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -244,6 +245,7 @@ Practice
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Greedy
 |  |
 | ------- |
