@@ -73,6 +73,7 @@ Practice
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
