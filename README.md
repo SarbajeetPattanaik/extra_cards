@@ -76,6 +76,7 @@ Practice
 | [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2547-odd-string-difference](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2547-odd-string-difference) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -251,6 +252,7 @@ Practice
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
 | [1585-the-kth-factor-of-n](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1585-the-kth-factor-of-n) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Greedy
 |  |
