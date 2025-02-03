@@ -74,6 +74,7 @@ Practice
 | [2445-reachable-nodes-with-restrictions](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2727-number-of-senior-citizens](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2727-number-of-senior-citizens) |
+| [3311-ant-on-the-boundary](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -107,6 +108,7 @@ Practice
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3311-ant-on-the-boundary](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3311-ant-on-the-boundary) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Practice
 |  |
 | ------- |
 | [1048-clumsy-factorial](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1048-clumsy-factorial) |
+| [3311-ant-on-the-boundary](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3311-ant-on-the-boundary) |
 ## Graph
 |  |
 | ------- |
