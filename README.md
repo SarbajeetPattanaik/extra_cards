@@ -69,6 +69,7 @@ Practice
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2102-find-the-middle-index-in-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/2102-find-the-middle-index-in-array) |
