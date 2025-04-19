@@ -51,6 +51,7 @@ Practice
 | [0056-merge-intervals](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0152-maximum-product-subarray) |
@@ -306,6 +307,7 @@ Practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0476-number-complement) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -349,4 +351,8 @@ Practice
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SarbajeetPattanaik/extra_cards/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
